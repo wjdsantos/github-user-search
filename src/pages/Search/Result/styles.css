@@ -1,0 +1,36 @@
+.search-result-contanier {
+    margin-top: 54px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.search-result-content {
+    width: 1251px;
+    height: 387px;
+    left: 0px;
+    top: 0px;
+    background: #F5F5F5;
+    border-radius: 8px
+}
+
+.result-git-info {
+    width: 846px;
+    height: 253px;
+    left: 362px;
+    top: 24px;
+    background: #DEDEDE;
+    border-radius: 8px
+}
+
+.result-git-info-title {
+    padding-left: 150px;
+}
+
+.result-git-image {
+    width: 278px;
+    height: 268px;
+    left: 30px;
+    top: 24px;
+    background: #DEDEDE;
+    border-radius: 8px;
+}
